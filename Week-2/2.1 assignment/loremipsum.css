@@ -1,0 +1,41 @@
+h1 {
+    text-align: -webkit-center;
+    font-size: -webkit-xxx-large;
+}
+h5 {
+    text-align: -webkit-center;
+}
+
+.first{
+    width: 750px;
+    float: left;
+    margin: 0px 0px 0px 30px;
+}
+
+.second{
+    width: 750px;
+    float: right;
+    margin: 0px 40px 0px 300px;
+}
+.third{
+    width: 45%;
+    float: right;
+    margin: -100px 35px 0px 100px;
+    position: relative;
+}
+
+.fourth{
+    width: 45%;
+    float: right;
+    margin: 0px 40px 0px 0px;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+    margin: 0px 0px 0px 30px;
+}
+
+form{
+    display: inline-block;
+}
